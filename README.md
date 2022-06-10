@@ -15,7 +15,7 @@ Para crear una nueva máquina virtual, podemos buscar en la barra del buscador *
 
 Ya en esa pantalla, vamos a crear una nueva máquina virtual desde el botón **+ Crear** y seleccionamos la primer opción **Máquina virtual de Azure**
 
-![Imgavm](Imagenes\Imagen3.png)
+![Imgavm](https://github.com/AngelAlbertoCT/virtual-machine/blob/main/Imagenes/Imagen3.png)
 
 Hay que recordar que los requisitos mínimos que se necesitan para crear un recurso en Azure es:
 
